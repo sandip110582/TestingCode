@@ -43,7 +43,7 @@ public class TestMercury
 	{
 		System.out.println("Under Before Test");
 		driver.get("http://newtours.demoaut.com/");
-		System.out.println("URL entered Succesfully");
+		System.out.println("URL enter Succesfully");
 	}
 
 	@BeforeClass
